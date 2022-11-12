@@ -1,0 +1,10 @@
+com\bezkoder\spring\jwt\mongodb\repository\RoleRepository.class
+com\bezkoder\spring\jwt\mongodb\repository\UserRepository.class
+com\bezkoder\spring\jwt\mongodb\security\WebSecurityConfig.class
+com\bezkoder\spring\jwt\mongodb\security\services\UserDetailsServiceImpl.class
+com\bezkoder\spring\jwt\mongodb\security\jwt\JwtUtils.class
+com\bezkoder\spring\jwt\mongodb\security\services\UserDetailsImpl.class
+com\bezkoder\spring\jwt\mongodb\payload\response\JwtResponse.class
+com\bezkoder\spring\jwt\mongodb\payload\response\MessageResponse.class
+com\bezkoder\spring\jwt\mongodb\security\jwt\AuthEntryPointJwt.class
+com\bezkoder\spring\jwt\mongodb\security\jwt\AuthTokenFilter.class
