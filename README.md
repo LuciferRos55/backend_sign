@@ -1,6 +1,6 @@
+## Backend for Advanced web project
 
-
-## Run Spring Boot application
+## To run:
 ```
 mvn spring-boot:run
 ```
